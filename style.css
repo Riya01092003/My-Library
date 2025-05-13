@@ -4,9 +4,7 @@
     box-sizing: border-box;
     font-family: "montserrat";
     color: #fff;
-    
-    
-    /* background-color: rgb(158, 156, 156); */
+ 
   }
   
   html,
@@ -159,7 +157,6 @@
   }
   
   #scroller {
-    /* background-color: red; */
     white-space: nowrap;
     overflow-x: auto;
     overflow-y: hidden;
@@ -205,7 +202,6 @@
   #about-us {
     height: 40vh;
     width: 100%;
-    /* background-color: red; */
     display: flex;
     padding: 0 50px;
     align-items: center;
@@ -234,7 +230,6 @@
   }
   
   #cards-container {
-    /* background-color: red; */
     height: 60vh;
     display: flex;
     align-items: center;
@@ -257,10 +252,10 @@
     background-image: url(https://femina.wwmindia.com/hindi/content/2018/Aug/book1533193808.jpg);
   }
   #card2 {
-    background-image: url(https://m.media-amazon.com/images/I/41PxZXhGHoL._AC_UF1000,1000_QL80_.jpg);
+    background-image: url(https://m.media-amazon.com/images/I/41PxZXhGHoL.AC_UF1000,1000_QL80.jpg);
   }
   #card3 {
-    background-image: url(https://m.media-amazon.com/images/I/81AVEGyvVML._AC_UF1000,1000_QL80_.jpg);
+    background-image: url(https://m.media-amazon.com/images/I/81AVEGyvVML.AC_UF1000,1000_QL80.jpg);
   }
   .overlay {
     height: 100%;
@@ -306,7 +301,6 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* background-color: red; */
     background: linear-gradient(to left bottom, #119f3a, #ace022);
   }
   #green-div h4 {
